@@ -1,0 +1,38 @@
+.reveal .slides {
+    text-align: left;
+}
+.reveal h1, .reveal h2, .reveal h3, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    text-transform: none;
+}
+.reveal .force-center {
+    text-align: center;
+}
+.reveal .size-l {
+    font-size: 1.3em;
+}
+.reveal .size-s {
+    font-size: 0.7em;
+}
+.reveal .color-yellow {
+    color: #f9d67a;
+}
+.reveal .color-blue {
+    color: #7cdbf3;
+}
+.reveal .color-green {
+    color: #c8eb79;
+}
+.reveal .color-red {
+    color: #f9a0a0;
+}
+.reveal .color-purple {
+    color: #a18fff;
+}
+.reveal section img {
+    border: 0;
+    box-shadow: none;
+}
+.reveal .slides section .fragment.highlight-red.visible {
+    color: #f9a0a0;
+}
+
