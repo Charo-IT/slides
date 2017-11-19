@@ -666,7 +666,7 @@ No RELRO → Partial RELROで<br>Read-Onlyになるセクション
 どのエントリを書き換えるか？
 
 <div class="force-center">
-    <img src="https://gitlab.com/Charo-IT/slides/raw/kernel_vm_kansai_8/assets/img/dynamic_highlight.png" width="498px" height="470px" />
+    <img src="https://github.com/Charo-IT/slides/raw/kernel_vm_kansai_8/assets/img/dynamic_highlight.png" width="498px" height="470px" />
 </div>
 
 +++
