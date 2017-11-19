@@ -680,7 +680,7 @@ No RELRO → Partial RELROで<br>Read-Onlyになるセクション
 
 strtab (.dynstr)の中身
 <div class="force-center">
-    <img src="https://github.com/Charo-IT/lides/raw/kernel_vm_kansai_8/assets/img/strtab.png"/>
+    <img src="https://github.com/Charo-IT/slides/raw/kernel_vm_kansai_8/assets/img/strtab.png"/>
 </div>
 <div class="size-s">
     ライブラリ関数の名前など<br>
